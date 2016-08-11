@@ -15,4 +15,13 @@ public class Calc {
 	double res=a+b;
 	return res;
 }
+	
+	public double sub(double a, double b)
+	{
+		
+	
+	 double res = a-b;
+	return res;
+}
+	
 }
